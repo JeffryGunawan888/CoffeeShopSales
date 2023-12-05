@@ -7,12 +7,16 @@ Transaction records for Maven Roasters, a fictitious coffee shop operating out o
 
 Recommended Analysis
 
-1 - How have Maven Roasters sales trended over time?
-
-2 - Which days of the week tend to be busiest, and why do you think that's the case?
-
-3 - Which products are sold most and least often? Which drive the most revenue for the business?
-
+1. Calculate the total sales for each product category.
+2. Determine the average unit price for each store location.
+3. Show the total sales for each month.
+4. Calculate the total sales for each store location and product category.
+5. Identify the highest total sales and the corresponding product.
+6. Compute the average unit price for each product type at every store location.
+7. Display the total sales per hour on a specific date.
+8. Find the average unit price for each product type.
+9. Calculate the total sales for each store location on a specific date.
+10. Determine the average unit price for each product type on a specific date.
 Data Preview
 
 transaction_id : Unique sequential ID representing an individual transaction
