@@ -1,4 +1,4 @@
-# CoffeeShopSales
+# Coffee Shop Sales
 
 ## About Dataset
 ## Coffee Shop Sales
